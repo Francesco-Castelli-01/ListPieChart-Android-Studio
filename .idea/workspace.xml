@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f974004c-0760-43f2-b2b2-351091ee0db9" name="Default Changelist" comment="Initial commit2" />
+    <list id="0af22148-041c-4b27-bd6d-4cb2b5cc83e8" name="Revert &quot;Initial commit&quot;" comment="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit 4544195f">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/ListPieChart.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/androidTest/java/it/francescocastelli/listpiechart/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/francescocastelli/listpiechart/ListPieChart.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/it/francescocastelli/listpiechart/ExampleUnitTest.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Francesco-Castelli-01/ListPieChart-AndroidStudio.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cSa7dSENv1U7OzomtFKX3zblhG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f974004c-0760-43f2-b2b2-351091ee0db9" name="Default Changelist" comment="" />
+      <created>1590524281505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590524281505</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1590524722292</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590524722292</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="BRANCHES_LOG">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="89" key="CommitChangelistDialog2" timestamp="1590524904778">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="549" y="89" key="CommitChangelistDialog2/0.0.1920.1036@0.0.1920.1036" timestamp="1590524904778" />
+    <state x="572" y="411" width="976" height="214" key="Github.ShareDialog" timestamp="1590524793063">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="572" y="411" width="976" height="214" key="Github.ShareDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1590524793063" />
+    <state x="675" y="226" key="Github.UntrackedFilesDialog" timestamp="1590524525733">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="675" y="226" key="Github.UntrackedFilesDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1590524525733" />
+  </component>
+</project>
