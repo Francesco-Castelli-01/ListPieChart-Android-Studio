@@ -4,12 +4,12 @@ group 'it.francescocastelli.listPieChart:ListPieChart:1.0'
 version '1.0.0'
 
 project.ext {
-    mavGitUrl = 'https://github.com/prof18/AwesomeLib.git'
-    mavProjectName = 'AwesomeLib'
+    mavGitUrl = 'https://github.com/Francesco-Castelli-01/ListPieChart-Android-Studio.git'
+    mavProjectName = 'ListPieChart'
     mavLibraryLicenses = ["Apache-2.0":'http://www.apache.org/licenses/LICENSE-2.0.txt']
-    mavLibraryDescription = "An Awesome Android library"
+    mavLibraryDescription = "Pie Chart for lists"
     mavPublishToMavenLocal = true
-    mavSiteUrl = 'https://github.com/prof18/AwesomeLib'
+    mavSiteUrl = 'https://github.com/Francesco-Castelli-01/ListPieChart-Android-Studio'
 }
 
 def properties = new Properties()
@@ -23,11 +23,11 @@ bintray {
     override = true
     pkg {
         repo = 'maven'
-        name = 'AwesomeLib'
-        description = "It's an awesome lib"
+        name = "ListPieChart"
+        description = "Pie Chart for lists"
         publicDownloadNumbers = true
         licenses = ['Apache-2.0']
-        vcsUrl = 'https://github.com/prof18/AwesomeLib'
+        vcsUrl = 'https://github.com/Francesco-Castelli-01/ListPieChart-Android-Studio'
         version {
             name = this.version
             desc = "Version ${this.version}"
