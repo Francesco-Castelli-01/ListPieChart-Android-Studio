@@ -1,6 +1,6 @@
 apply plugin: 'com.jfrog.bintray'
 
-group 'it.francescocastelli.listpiechart:listpiechart:1.0'
+group 'it.francescocastelli.listpiechart'
 version '1.0.0'
 
 project.ext {
@@ -22,8 +22,8 @@ bintray {
     configurations = ['archives']
     override = true
     pkg {
-        repo = 'maven'
-        name = "ListPieChart"
+        repo = 'stats-and-timing'
+        name = "pie-chart-for-lists"
         description = "Pie Chart for lists"
         publicDownloadNumbers = true
         licenses = ['Apache-2.0']
