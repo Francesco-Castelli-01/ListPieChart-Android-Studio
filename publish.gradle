@@ -1,6 +1,6 @@
 apply plugin: 'com.jfrog.bintray'
 
-group 'it.francescocastelli.listpiephart:listPieChart:1.0'
+group 'it.francescocastelli.listpiechart:listpiechart:1.0'
 version '1.0.0'
 
 project.ext {
